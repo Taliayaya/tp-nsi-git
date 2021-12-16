@@ -1,0 +1,2 @@
+boisson = "café"
+print(boisson)
