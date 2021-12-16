@@ -1,2 +1,2 @@
-boisson = "café"
+boisson = "chocolat chaud"
 print(boisson)
